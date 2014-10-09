@@ -1,7 +1,7 @@
 fj-project-management
 =====================
 
-[Download material for ONA14 workshop](https://drive.google.com/folderview?id=0Bz2oZ4T3R7h3cmc4T0g1UkhGZUU&usp=drive_web)
+[Download material from ONA14 workshop](https://drive.google.com/folderview?id=0Bz2oZ4T3R7h3cmc4T0g1UkhGZUU&usp=drive_web)
 
 This workshop will take participants through the lightweight agile process the Chicago Tribune  News Applications team follows when building news products/projects. After introductions and a  brief discussion of the importance of effective project management, we will provide an overview  of the steps involved in the process, which we will illustrate by walking through a real-world  project the News Apps team built.  
 
